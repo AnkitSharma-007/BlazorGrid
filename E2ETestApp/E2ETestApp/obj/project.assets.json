@@ -123,17 +123,17 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "BlazorGridComponent/1.0.0": {
+      "BlazorGrid/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "Microsoft.AspNetCore.Blazor.Browser": "0.7.0"
         },
         "compile": {
-          "bin/placeholder/BlazorGridComponent.dll": {}
+          "bin/placeholder/BlazorGrid.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BlazorGridComponent.dll": {}
+          "bin/placeholder/BlazorGrid.dll": {}
         }
       }
     }
@@ -659,7 +659,7 @@
         "netstandard.library.nuspec"
       ]
     },
-    "BlazorGridComponent/1.0.0": {
+    "BlazorGrid/1.0.0": {
       "type": "project",
       "path": "../../BlazorGridComponent/BlazorGridComponent.csproj",
       "msbuildProject": "../../BlazorGridComponent/BlazorGridComponent.csproj"
@@ -667,7 +667,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "BlazorGridComponent >= 1.0.0",
+      "BlazorGrid >= 1.0.0",
       "Microsoft.AspNetCore.Blazor.Browser >= 0.7.0",
       "Microsoft.AspNetCore.Blazor.Build >= 0.7.0",
       "NETStandard.Library >= 2.0.3"

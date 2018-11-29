@@ -6,6 +6,16 @@
     <IsPackable>true</IsPackable>
     <BlazorLinkOnBuild>false</BlazorLinkOnBuild>
     <LangVersion>7.3</LangVersion>
+    <PackageId>BlazorGrid</PackageId>
+    <Authors>Ankit Sharma</Authors>
+    <Product>BlazorGrid</Product>
+    <PackageProjectUrl>https://github.com/AnkitSharma-007/BlazorGrid</PackageProjectUrl>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageTags>Microsoft ASP.NET Core Blazor BlazorGrid  Blazor-Component</PackageTags>
+    <Description>A reusable grid component for Blazor.</Description>
+    <RepositoryUrl>https://github.com/AnkitSharma-007/BlazorGrid</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Copyright>(c) Ankit Sharma</Copyright>
   </PropertyGroup>
 
   <ItemGroup>

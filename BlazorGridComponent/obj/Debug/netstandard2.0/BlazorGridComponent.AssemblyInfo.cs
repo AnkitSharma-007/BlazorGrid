@@ -11,11 +11,13 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("BlazorGridComponent")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Ankit Sharma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("(c) Ankit Sharma")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("A reusable grid component for Blazor.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("BlazorGridComponent")]
+[assembly: System.Reflection.AssemblyProductAttribute("BlazorGrid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorGridComponent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

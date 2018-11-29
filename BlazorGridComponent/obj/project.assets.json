@@ -662,7 +662,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\asharma2\\source\\repos\\BlazorGridComponent\\BlazorGridComponent\\BlazorGridComponent.csproj",
-      "projectName": "BlazorGridComponent",
+      "projectName": "BlazorGrid",
       "projectPath": "C:\\Users\\asharma2\\source\\repos\\BlazorGridComponent\\BlazorGridComponent\\BlazorGridComponent.csproj",
       "packagesPath": "C:\\Users\\asharma2\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\asharma2\\source\\repos\\BlazorGridComponent\\BlazorGridComponent\\obj\\",
