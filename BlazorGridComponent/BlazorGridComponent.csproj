@@ -11,7 +11,7 @@
     <Product>BlazorGrid</Product>
     <PackageProjectUrl>https://github.com/AnkitSharma-007/BlazorGrid</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/AnkitSharma-007/BlazorGrid/blob/master/BlazorGridComponent/LICENSE</PackageLicenseUrl>
-    <PackageTags>Microsoft ASP.NET Core Blazor BlazorGrid  Blazor-Component</PackageTags>
+    <PackageTags>ASP.NETCore Blazor BlazorGrid  Blazor-Component</PackageTags>
     <Description>A reusable grid component for Blazor.</Description>
     <RepositoryUrl>https://github.com/AnkitSharma-007/BlazorGrid</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
