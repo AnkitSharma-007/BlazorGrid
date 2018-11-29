@@ -1,0 +1,14 @@
+BlazorGridComponent.dll
+Microsoft.AspNetCore.Blazor.Browser.dll
+Microsoft.AspNetCore.Blazor.dll
+Microsoft.AspNetCore.Blazor.TagHelperWorkaround.dll
+Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Microsoft.Extensions.DependencyInjection.dll
+Microsoft.JSInterop.dll
+Mono.WebAssembly.Interop.dll
+mscorlib.dll
+System.Core.dll
+System.dll
+System.Net.Http.dll
+BlazorGridComponent.pdb
+E2ETestApp.pdb
