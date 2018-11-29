@@ -10,7 +10,7 @@
     <Authors>Ankit Sharma</Authors>
     <Product>BlazorGrid</Product>
     <PackageProjectUrl>https://github.com/AnkitSharma-007/BlazorGrid</PackageProjectUrl>
-    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/AnkitSharma-007/BlazorGrid/blob/master/BlazorGridComponent/LICENSE</PackageLicenseUrl>
     <PackageTags>Microsoft ASP.NET Core Blazor BlazorGrid  Blazor-Component</PackageTags>
     <Description>A reusable grid component for Blazor.</Description>
     <RepositoryUrl>https://github.com/AnkitSharma-007/BlazorGrid</RepositoryUrl>
