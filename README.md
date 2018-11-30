@@ -2,12 +2,14 @@
 This is a reusable grid component for Blazor. It also support client size pagination.
 # Prerequisites
 The BlazorGrid component can be used in a Blazor application only. To create a Blazor application follow the steps mentioned at https://blazor.net/docs/get-started.html
+# Nuget Gallery
+The Nuget package page can be found at https://www.nuget.org/packages/BlazorGrid/
 # Installation
-To install using NPM run the following command
+To install ```BlazorGrid``` using NPM run the following command
 ```
 Install-Package BlazorGrid
 ```
-To install using .NET CLI run the following command
+To install ```BlazorGrid``` using .NET CLI run the following command
 ```
 dotnet add package BlazorGrid
 ```
@@ -26,19 +28,19 @@ Refer to the sample code below:
 
 ```
 <BlazorGrid Items="@forecasts" PageSize="4">
-        <GridHeader>
-            <th>Date</th>
-            <th>TemperatureC</th>
-            <th>TemperatureF</th>
-            <th>Summary</th>
-        </GridHeader>
-        <GridRow>
-            <td>@context.Date.ToShortDateString()</td>
-            <td>@context.TemperatureC</td>
-            <td>@context.TemperatureF</td>
-            <td>@context.Summary</td>
-        </GridRow>
-    </BlazorGrid>
+	<GridHeader>
+		<th>Date</th>
+		<th>TemperatureC</th>
+		<th>TemperatureF</th>
+		<th>Summary</th>
+	</GridHeader>
+	<GridRow>
+		<td>@context.Date.ToShortDateString()</td>
+		<td>@context.TemperatureC</td>
+		<td>@context.TemperatureF</td>
+		<td>@context.Summary</td>
+	</GridRow>
+</BlazorGrid>
 ```
 ```
 @functions {
@@ -60,8 +62,6 @@ Refer to the sample code below:
 ```
 # Sample Output
 ![Alt Text](https://github.com/AnkitSharma-007/BlazorGrid/blob/master/BlazorGridComponent/BlazorGridDemo.PNG)
-# Nuget Gallery
-The Nuget package page can be found at https://www.nuget.org/packages/BlazorGrid/
 # Release notes
 **1.1**
 > - Updated license 
