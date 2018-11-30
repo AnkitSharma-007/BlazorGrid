@@ -64,9 +64,11 @@ Refer to the sample code below:
 ```
 # Sample Output
 ![Alt Text](https://github.com/AnkitSharma-007/BlazorGrid/blob/master/BlazorGridComponent/BlazorGridDemo.PNG)
+# Feedback
+Feel free to use this component and provide your valuable feedback. If you encounter any bugs open an issue and discuss.  
 # Release notes
-**1.1**
+**1.1.0**
 > - Updated license 
 
-**1.0**
+**1.0.0**
 > - Initial release
