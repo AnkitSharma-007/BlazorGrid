@@ -1,5 +1,5 @@
 # BlazorGrid
-This is a reusable grid component for Blazor. It also support client size pagination.
+This is a reusable grid component for Blazor. It also support client side pagination.
 # Prerequisites
 The BlazorGrid component can be used in a Blazor application only. To create a Blazor application follow the steps mentioned at https://blazor.net/docs/get-started.html
 # Nuget Gallery
