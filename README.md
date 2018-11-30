@@ -1,5 +1,5 @@
-[![License](https://img.shields.io/github/license/BlazorExtensions/Storage.svg?logo=appveyor&longCache=true&style=flat-square)](https://github.com/AnkitSharma-007/BlazorGrid/blob/master/BlazorGridComponent/LICENSE)
-[![Package Version](https://img.shields.io/badge/nuget-v1.1.0-blue.svg?logo=appveyor&longCache=true&style=flat-square)](https://www.nuget.org/packages/BlazorGrid/)
+[![License](https://img.shields.io/github/license/BlazorExtensions/Storage.svg?longCache=true&style=flat-square)](https://github.com/AnkitSharma-007/BlazorGrid/blob/master/BlazorGridComponent/LICENSE)
+[![Package Version](https://img.shields.io/badge/nuget-v1.1.0-blue.svg?longCache=true&style=flat-square)](https://www.nuget.org/packages/BlazorGrid/)
 # BlazorGrid
 This is a reusable grid component for Blazor. It also support client side pagination.
 # Prerequisites
