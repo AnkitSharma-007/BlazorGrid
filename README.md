@@ -65,7 +65,9 @@ Refer to the sample code below:
 # Sample Output
 ![Alt Text](https://github.com/AnkitSharma-007/BlazorGrid/blob/master/BlazorGridComponent/BlazorGridDemo.PNG)
 # Feedback
-Feel free to use this component and provide your valuable feedback. If you encounter any bugs open an issue and discuss.  
+Feel free to use this component and provide your valuable feedback. If you encounter any bugs open an issue and discuss.
+# BlazorGrid blog 
+To learn how the BlazorGrid is created refer to my article https://ankitsharmablogs.com/blazorgrid-reusable-grid-component-for-blazor/
 # Release notes
 **1.1.0**
 > - Updated license 
