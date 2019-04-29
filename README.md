@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/github/license/BlazorExtensions/Storage.svg?longCache=true&style=flat-square)](https://github.com/AnkitSharma-007/BlazorGrid/blob/master/BlazorGridComponent/LICENSE)
+[![License](https://img.shields.io/github/license/BlazorExtensions/Storage.svg?longCache=true&style=flat-square)](https://github.com/AnkitSharma-007/BlazorGrid/blob/master/LICENSE)
 [![Package Version](https://img.shields.io/badge/nuget-v1.1.0-blue.svg?longCache=true&style=flat-square)](https://www.nuget.org/packages/BlazorGrid/)
 # BlazorGrid
 This is a reusable grid component for Blazor. It also support client side pagination.
@@ -15,9 +15,9 @@ To install ```BlazorGrid``` using .NET CLI run the following command
 ```
 dotnet add package BlazorGrid
 ```
-After you have installed the package add the following line in the ```_ViewImports.cshtml``` file
+After you have installed the package add the following line in the ```_Imports.razor``` file
 ```
-@addTagHelper *,BlazorGridComponent
+@using BlazorGridComponent
 ```
 # Sample usage
 The ```<BlazorGrid>``` component accepts following parameters
