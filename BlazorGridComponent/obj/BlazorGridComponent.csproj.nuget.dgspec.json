@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Personal Projects\\BlazorGrid\\BlazorGridComponent\\BlazorGridComponent.csproj": {}
+  },
+  "projects": {
+    "C:\\Personal Projects\\BlazorGrid\\BlazorGridComponent\\BlazorGridComponent.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Personal Projects\\BlazorGrid\\BlazorGridComponent\\BlazorGridComponent.csproj",
+        "projectName": "BlazorGrid",
+        "projectPath": "C:\\Personal Projects\\BlazorGrid\\BlazorGridComponent\\BlazorGridComponent.csproj",
+        "packagesPath": "C:\\Users\\asharma2\\.nuget\\packages\\",
+        "outputPath": "C:\\Personal Projects\\BlazorGrid\\BlazorGridComponent\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\asharma2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/npm/bpty-npm-local": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/bpty-nuget-local": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/bpty-nuget-vanilla": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/nuget-internal": {},
+          "https://artifactory.bwinparty.corp/artifactory/api/nuget/nuget-public": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Blazor": {
+              "target": "Package",
+              "version": "[3.0.0-preview4-19216-03, )"
+            },
+            "Microsoft.AspNetCore.Blazor.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview4-19216-03, )"
+            },
+            "Microsoft.AspNetCore.Blazor.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.0-preview4-19216-03, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

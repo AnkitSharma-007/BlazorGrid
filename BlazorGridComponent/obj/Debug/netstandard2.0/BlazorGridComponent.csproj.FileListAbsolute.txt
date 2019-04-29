@@ -21,3 +21,29 @@ C:\Users\asharma2\source\repos\BlazorGridComponent\BlazorGridComponent\obj\Debug
 C:\Users\asharma2\source\repos\BlazorGridComponent\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.dll
 C:\Users\asharma2\source\repos\BlazorGridComponent\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.pdb
 C:\Users\asharma2\source\repos\BlazorGridComponent\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.csprojAssemblyReference.cache
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\BlazorGridComponent.blazor.config
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\BlazorGridComponent.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\BlazorGridComponent.pdb
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Blazor.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Components.Browser.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\Microsoft.JSInterop.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\Mono.WebAssembly.Interop.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.csproj.CoreCompileInputs.cache
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.RazorComponent.input.cache
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\RazorDeclaration\BlazorGrid.razor.g.cs
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\RazorDeclaration\BlazorGridComponent.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.TagHelpers.input.cache
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.TagHelpers.output.cache
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.RazorCoreGenerate.cache
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\Razor\BlazorGrid.razor.g.cs
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.AssemblyInfoInputs.cache
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.AssemblyInfo.cs
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.RazorTargetAssemblyInfo.cache
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.csproj.CopyComplete
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.dll
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.pdb
+C:\Personal Projects\BlazorGrid\BlazorGridComponent\obj\Debug\netstandard2.0\BlazorGridComponent.csprojAssemblyReference.cache

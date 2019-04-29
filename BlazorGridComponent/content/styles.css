@@ -1,10 +1,10 @@
-﻿.jsgrid-grid-header {
+﻿.blazor-grid-header {
     text-align: center;
     border-collapse: collapse;
     background: #ebebeb;
 }
 
-.jsgrid-row-item:hover {
+.blazor-row-item:hover {
     background: #9fcdf4;
 }
 
